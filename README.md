@@ -17,9 +17,9 @@
 ## 💻 Tecnologia 
 
 * A aplicação foi feita de forma mais simples possivel utilizando: 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+  <img src="https://user-images.githubusercontent.com/65673565/197231139-6dfa8431-458c-413e-89e8-972e1ab811d8.svg" width="20" height="20">
+  <img src="https://user-images.githubusercontent.com/65673565/197238032-ca4fa2b6-d812-4e4c-b273-e17b04aaabbf.svg" width="20" height="20">
+  <img src="https://user-images.githubusercontent.com/65673565/197238275-388aa7ce-f0ab-4d23-96f1-c89bccb4cb90.svg" width="20" height="20">
 * Utilizei uma lib bem interessante, a <a href="https://scrollrevealjs.org/" target="_blank"><kbd>ScrollReveal</kbd></a>, que me ajudou na animação da página.
 * Toda aplicação foi criada no sitema operacional `Windows 11`
 * Conhecimento adquirido com cursos e práticas realizadas com a <a href="https://www.dio.me/" target="_blank"><kbd>Dio._</kbd></a>.
